@@ -1,0 +1,9 @@
+header {
+    width: 100%;
+    height: 10rem;
+    background-color: darkslategray;
+}
+
+header h1 {
+    color: lightgray;
+}

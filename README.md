@@ -1,2 +1,2 @@
-# maxprehl.github.io
-A little more about me
+# (maxprehl.github.io)
+A little site about me
